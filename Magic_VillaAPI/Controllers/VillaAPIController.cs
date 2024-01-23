@@ -9,7 +9,7 @@ namespace Magic_VillaAPI.Controllers
     [ApiController]
     [Route("api/VillaAPI")]
     /*Our api controller has to extends from ControllerBase we prev used : Controller for hnadling Razor views in MVC
-     we need to use icrosoft.AspNetCore.Mvc;
+     we need to use icrosoft.AspNetCore.Mvc
     ControllerBase documentaion
      */
     public class VillaAPIController : ControllerBase
